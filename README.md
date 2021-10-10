@@ -33,10 +33,10 @@ game = GameOfLife(N=10, M=10, n_steps=10, initial_state=initial_state)
 ```
 ## Examples
 - Block blinker and glider
-<img src="N_10_M_10_n_steps_10.gif" width="200" height="200">
+<img src="N_10_M_10_n_steps_10.gif" width="400" height="400">
 
 - Random generated initial state
-<img src="N_30_M_30_n_steps_10.gif" width="200" height="200">
+<img src="N_30_M_30_n_steps_10.gif" width="400" height="400">
 
 
 
